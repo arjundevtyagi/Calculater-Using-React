@@ -1,0 +1,18 @@
+.calculator{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 30px;
+   
+}
+
+
+.keypad{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
